@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d737e2e3-9ded-478e-853d-0f45dffde3b4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Semana6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Semana6/ec/edu/utpl/poo/semana6/demo/Saludo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ec/edu/utpl/poo/semana6/demo/Saludo.java" afterDir="false" />
+    <list default="true" id="d737e2e3-9ded-478e-853d-0f45dffde3b4" name="Default Changelist" comment="Agregue el origen del Saludo">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +67,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620856983607</updated>
-      <workItem from="1620856984881" duration="938000" />
+      <workItem from="1620856984881" duration="1310000" />
     </task>
+    <task id="LOCAL-00001" summary="Agregue el origen del Saludo">
+      <created>1620858036259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620858036259</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Agregue el origen del Saludo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Agregue el origen del Saludo" />
   </component>
 </project>
